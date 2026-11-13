@@ -1,0 +1,24 @@
+dataset,evaluation,metric,mean,std
+both,5-fold CV,accuracy,0.718562874251497,0.01967865476066465
+both,5-fold CV,precision,0.4052960080984498,0.027533894744663223
+both,5-fold CV,recall,0.5930930930930931,0.10347077702033887
+both,5-fold CV,f1,0.47813874257513256,0.046747046811428404
+both,5-fold CV,specificity,0.7543394010569584,0.04346936882893947
+both,test,accuracy,0.7081339712918661,0.0
+both,test,precision,0.391304347826087,0.0
+both,test,recall,0.5869565217391305,0.0
+both,test,f1,0.46956521739130436,0.0
+both,test,specificity,0.7423312883435583,0.0
+both,test probability,roc_auc,0.6863163510269406,0.0
+both,test probability,pr_auc,0.3830518351073196,0.0
+both,classification report,fail_precision,0.391304347826087,0.0
+both,classification report,fail_recall,0.5869565217391305,0.0
+both,classification report,fail_f1,0.46956521739130436,0.0
+both,classification report,pass_precision,0.8642857142857143,0.0
+both,classification report,pass_recall,0.7423312883435583,0.0
+both,classification report,pass_f1,0.7986798679867987,0.0
+both,decision tree,n_leaves,42.0,0.0
+both,decision tree,max_depth,6.0,0.0
+both,decision tree,train_f1,0.6706349206349206,0.0
+both,decision tree,test_f1,0.46956521739130436,0.0
+both,decision tree,train_test_f1_gap,0.20106970324361623,0.0

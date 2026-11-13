@@ -1,0 +1,24 @@
+dataset,evaluation,metric,mean,std
+mat,5-fold CV,accuracy,0.6612599206349208,0.056207291812853305
+mat,5-fold CV,precision,0.508373217237535,0.07350920106821285
+mat,5-fold CV,recall,0.4319047619047619,0.08164410350532493
+mat,5-fold CV,f1,0.454994266994267,0.03204202115938677
+mat,5-fold CV,specificity,0.7728682170542636,0.1161938199334874
+mat,test,accuracy,0.5443037974683544,0.0
+mat,test,precision,0.3611111111111111,0.0
+mat,test,recall,0.5,0.0
+mat,test,f1,0.41935483870967744,0.0
+mat,test,specificity,0.5660377358490566,0.0
+mat,test probability,roc_auc,0.5185050798258345,0.0
+mat,test probability,pr_auc,0.39248537492876345,0.0
+mat,classification report,fail_precision,0.3611111111111111,0.0
+mat,classification report,fail_recall,0.5,0.0
+mat,classification report,fail_f1,0.41935483870967744,0.0
+mat,classification report,pass_precision,0.6976744186046512,0.0
+mat,classification report,pass_recall,0.5660377358490566,0.0
+mat,classification report,pass_f1,0.625,0.0
+mat,decision tree,n_leaves,16.0,0.0
+mat,decision tree,max_depth,4.0,0.0
+mat,decision tree,train_f1,0.6721311475409836,0.0
+mat,decision tree,test_f1,0.41935483870967744,0.0
+mat,decision tree,train_test_f1_gap,0.25277630883130614,0.0
